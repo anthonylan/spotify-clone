@@ -1,6 +1,6 @@
 # Spotify Clone
 
-I usually upload my projects when they are completly finished. However I'll need more time to complete this one, so I thought to myself why not track every stage of the projects as it undergoes different phases before its completion.
+I usually upload my projects when they are completly finished. However I'll need more time to complete this one, so I thought to myself why not track every stages of the project as it undergoes different phases before its completion.
 
 ## First Stage
 
