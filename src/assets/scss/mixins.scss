@@ -1,0 +1,21 @@
+@mixin btnGlobal {
+      color: $white;
+      text-transform: uppercase;
+      padding: .8rem 2.5rem;
+      border-radius: 50px;
+      font-size: .8rem;
+      border-style: solid;
+      border-width: 1px;
+      outline: none;
+      transition: all .1s ease-in-out; 
+      &:hover{
+        transform: scale(1.05);
+      } 
+}
+
+@mixin btnProps {
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+}
